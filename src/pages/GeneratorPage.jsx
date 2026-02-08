@@ -75,7 +75,7 @@ export default function GeneratorPage() {
               <input
                 value={fromName}
                 onChange={(event) => setFromName(event.target.value)}
-                placeholder="Navaneeth"
+                placeholder="Romeo"
                 className="rounded-2xl border-rose-200 bg-white px-4 py-3 text-base shadow-sm focus:border-rose-400 focus:ring-rose-300"
               />
             </label>
@@ -85,7 +85,7 @@ export default function GeneratorPage() {
               <input
                 value={toName}
                 onChange={(event) => setToName(event.target.value)}
-                placeholder="Anu"
+                placeholder="Juliet"
                 className="rounded-2xl border-rose-200 bg-white px-4 py-3 text-base shadow-sm focus:border-rose-400 focus:ring-rose-300"
               />
             </label>

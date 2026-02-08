@@ -6,7 +6,10 @@ LoveLink is a playful Valentine web app that lets you generate a personalized in
 Perfect for sharing on WhatsApp, Instagram, Telegram, and mobile browsers.
 
 **Live Demo**
-- `https://your-vercel-app.vercel.app`
+- `https://valentine0-1-9oyp.vercel.app/`
+
+**Preview**
+![LoveLink preview](public/preview.png)
 
 **Features**
 - Personalized Valentine links
