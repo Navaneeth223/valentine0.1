@@ -1,12 +1,20 @@
-﻿# 💖 LoveLink 💘
+![React](https://img.shields.io/badge/React-18-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-3.3-38bdf8)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
+ 
+ # 💖 LoveLink 💘
 Create a personalized Valentine surprise with a single link.
 
 LoveLink is a playful Valentine web app that lets you generate a personalized invitation link for your partner. It is built with React, smooth animations, and a mobile-first UI.
 
 Perfect for sharing on WhatsApp, Instagram, Telegram, and mobile browsers.
 
-**Live Demo**
-- `https://valentine0-1-9oyp.vercel.app/`
+## Live Demo ##
+
+👉 https://valentine0-1-9oyp.vercel.app/
 
 **Preview**
 ![LoveLink preview](public/preview.png)
@@ -46,7 +54,7 @@ Behavior
 - Generates a shareable URL:
 
 ```text
-/valentine?from=Navaneeth&to=Anu&emoji=💖&theme=pink
+/valentine?from=Romeo&to=Juliet&emoji=💖&theme=pink
 ```
 
 - Image stored using Base64
@@ -141,3 +149,7 @@ MIT (see `LICENSE`)
 - Star the repo
 - Share it with friends
 - Use it to make someone smile
+
+
+---
+Made with ❤️ by Navaneeth.k.v
